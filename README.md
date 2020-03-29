@@ -1,2 +1,2 @@
 # microservice-repo
-Fabio configuracao de spring cloud config
+Fabio configuração de spring cloud config
